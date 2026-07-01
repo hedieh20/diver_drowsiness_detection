@@ -1,4 +1,4 @@
-# diver_drowsiness_setection
+# diver_drowsiness_detection
 
 ## Overview
 A deep learning-based computer vision system that detects driver drowsiness in real time using facial landmarks and eye state analysis.
